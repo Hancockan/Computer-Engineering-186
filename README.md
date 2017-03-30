@@ -1,3 +1,3 @@
 # CprE186
 
-This repository was a lab for Computer Engineering 186
+This repository was a lab for Computer Engineering 186 as an intro to GitHub
